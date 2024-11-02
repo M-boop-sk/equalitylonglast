@@ -1,0 +1,23 @@
+<p><!DOCTYPE html> <html lang=&quot;en&quot;> <head>  <meta charset=&quot;UTF-8&quot;>  <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>  <title>Community Members</title>  <link rel=&quot;stylesheet&quot; href=&quot;style.css&quot;> </head> <body>  <header>  <h1>Welcome to Our Community</h1>  <p>Meet the amazing members of our community!</p>  </header></p>
+
+<p> <section id=&quot;members&quot;>  <h2>Our Members</h2>  <div class=&quot;member-list&quot;>  <!-- Member 1 -->  <div class=&quot;member&quot;>  <img src=&quot;https://via.placeholder.com/150&quot; alt=&quot;Member 1&quot;>  <h3>Nama Member 1</h3>  <p>Role: Designer</p>  <p>Bio: Suka desain grafis dan selalu update dengan tren baru.</p>  </div></p>
+
+<p> <!-- Member 2 -->  <div class=&quot;member&quot;>  <img src=&quot;https://via.placeholder.com/150&quot; alt=&quot;Member 2&quot;>  <h3>Nama Member 2</h3>  <p>Role: Developer</p>  <p>Bio: Ahli dalam coding dan pengembangan aplikasi web.</p>  </div></p>
+
+<p> <!-- Member 3 -->  <div class=&quot;member&quot;>  <img src=&quot;https://via.placeholder.com/150&quot; alt=&quot;Member 3&quot;>  <h3>Nama Member 3</h3>  <p>Role: Social Media Specialist</p>  <p>Bio: Kreatif dalam mengelola konten sosial media komunitas.</p>  </div></p>
+
+<p> <!-- Member 4 -->  <div class=&quot;member&quot;>  <img src=&quot;https://via.placeholder.com/150&quot; alt=&quot;Member 4&quot;>  <h3>Nama Member 4</h3>  <p>Role: Content Creator</p>  <p>Bio: Suka bikin konten menarik dan berbagi ide baru.</p>  </div></p>
+
+<p> <!-- Member 5 -->  <div class=&quot;member&quot;>  <img src=&quot;https://via.placeholder.com/150&quot; alt=&quot;Member 5&quot;>  <h3>Nama Member 5</h3>  <p>Role: Project Manager</p>  <p>Bio: Mengorganisasi proyek dan memastikan semua berjalan lancar.</p>  </div></p>
+
+<p> <!-- Member 6 -->  <div class=&quot;member&quot;>  <img src=&quot;https://via.placeholder.com/150&quot; alt=&quot;Member 6&quot;>  <h3>Nama Member 6</h3>  <p>Role: Writer</p>  <p>Bio: Penulis konten komunitas dengan gaya tulisan yang engaging.</p>  </div></p>
+
+<p> <!-- Member 7 -->  <div class=&quot;member&quot;>  <img src=&quot;https://via.placeholder.com/150&quot; alt=&quot;Member 7&quot;>  <h3>Nama Member 7</h3>  <p>Role: Marketing</p>  <p>Bio: Membantu promosi dan mengembangkan brand komunitas.</p>  </div></p>
+
+<p> <!-- Member 8 -->  <div class=&quot;member&quot;>  <img src=&quot;https://via.placeholder.com/150&quot; alt=&quot;Member 8&quot;>  <h3>Nama Member 8</h3>  <p>Role: UI/UX Designer</p>  <p>Bio: Fokus pada desain yang user-friendly dan menarik.</p>  </div></p>
+
+<p> <!-- Member 9 -->  <div class=&quot;member&quot;>  <img src=&quot;https://via.placeholder.com/150&quot; alt=&quot;Member 9&quot;>  <h3>Nama Member 9</h3>  <p>Role: Community Manager</p>  <p>Bio: Membangun hubungan dan komunikasi dengan anggota komunitas.</p>  </div></p>
+
+<p> <!-- Member 10 -->  <div class=&quot;member&quot;>  <img src=&quot;https://via.placeholder.com/150&quot; alt=&quot;Member 10&quot;>  <h3>Nama Member 10</h3>  <p>Role: Event Coordinator</p>  <p>Bio: Mengatur dan merencanakan acara-acara komunitas.</p>  </div>  </div>  </section></p>
+
+<p> <footer>  <p>&amp;copy; 2024 Komunitas Kami. All rights reserved.</p>  </footer> </body> </html></p>
